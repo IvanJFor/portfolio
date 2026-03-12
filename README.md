@@ -25,21 +25,25 @@ Los repositorios fijados en este perfil muestran ejemplos prácticos en distinta
 Proyecto de análisis de datos y entrenamiento de modelo utilizando Python, librerías de análisis y ML.
 
 - 📊 [Análisis de datos y modelo ML con Pandas](https://github.com/IvanJFor/ml-prediccion-enfermedad-cardiovascular)
+
   Proyecto de análisis, limpieza de datos y entrenamiento de modelo de Machine Learning.
 
 ### Python
 Aplicación de consola orientada a estructuración del código y lógica de programación.
 
 - 🏥 [Gestión de Clínica](https://github.com/IvanJFor/gestion-clinica)
+
   Sistema de gestión de pacientes de una clínica
 
 ### Java
 Proyectos desarrollados durante formación en Java para demostrar adaptación a nuevos lenguajes y organización del código.
 
 - 🍫 [Máquina Vending](https://github.com/IvanJFor/maquina-vending)
+
   Simulación de máquina expendedora por consola con generación de tickets.
 
 - 📑 [Gestión de Notas](https://github.com/IvanJFor/gestion-notas)
+
   Sistema académico con modelado de clases y uso de colecciones.
 
 ---
